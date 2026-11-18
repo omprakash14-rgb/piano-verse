@@ -1,0 +1,6 @@
+{
+  "name": "PianoVerse — Interactive Piano Learning Academy",
+  "description": "Discover. Learn. Play. Master. An interactive beginner piano classroom with an 88-key Web Audio piano, guided tutorials, music theory labs, and three-level assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
